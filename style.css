@@ -48,6 +48,17 @@ body {
     border-radius: 5px;
     font-weight: bold;
   }
+
+#Register{
+    background: red;
+    padding: 8px 14px;
+    border: none;
+    color: white;
+    font-size: 15px;
+    border-radius: 5px;
+    font-weight: bold;
+
+}
   p {
     margin: 13px;
     font-weight: 400;
